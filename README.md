@@ -7,4 +7,4 @@ Hosted via GitHub Pages.
 - **Privacy Policy** → [privacy.html](./privacy.html)
 - **Terms of Use** → Apple's [Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
-Contact: alex.biriulin.pro@gmail.com
+Developer contact information is listed on the [GritMode App Store page](https://apps.apple.com/app/id6763505097).
